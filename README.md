@@ -1,7 +1,7 @@
 # Rcommendation-Mobil-App
 
 ## Model Class
-- WDL_FTRL_model.py : wide and deep model class, see [github](https://github.com/blarainck306/WDL_FTRL) for different model class definitions for the purposes of wide only training, deep only training, combined training, and using optimizations of OGD and FTRL-proximal etc.
+- WDL_FTRL_model.py : wide and deep model class, see [this separate repository github](https://github.com/blarainck306/WDL_FTRL) for different model class definitions for the purposes of wide only training, deep only training, combined training, and using optimizations of OGD and FTRL-proximal etc.
 
 ## Utility
 - utility.py: utility functions used by ipython notebooks
